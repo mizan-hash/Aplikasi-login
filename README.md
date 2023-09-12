@@ -7,3 +7,5 @@ aplikasi login dicoding-university
 3. alur 3
 4. alur 4
 5. alur 5
+6. alur 6
+7. alur 7
